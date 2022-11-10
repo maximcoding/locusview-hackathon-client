@@ -1,0 +1,151 @@
+html {
+  background: linear-gradient(199.11deg, rgba(194, 201, 206, 0.08) -37.33%, rgba(225, 228, 231, 0.42) -20.55%, rgba(237, 238, 240, 0.22) -5.47%, rgba(255, 255, 255, 0.97) 43.68%, rgba(226, 229, 231, 0.03) 94.47%, rgba(249, 249, 249, 0.99) 114.68%, #FBFBFB 132.72%, rgba(237, 236, 237, 0.07) 166.36%);
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.horizontal-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-element {
+  flex-grow: 1;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.line-separator {
+  border-top: solid 1px #EEF1F5;
+  margin: 40px 0px 0px 0px;
+}
+
+.line-separator-cards {
+    border-top: solid 1px #EEF1F5;
+      margin: 20px 0px 20px 0px;
+}
+
+.duke {
+  width: 80px;
+  height: 20px;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.avatar-margin {
+  position: relative;
+  top: 5px;
+}
+
+.avatar-number {
+  position: relative;
+  top: 5px;
+}
+
+.user-group {
+  margin-top: 20px;
+}
+
+.star {
+  margin: 10px;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.user {
+  margin-left: 40px;
+  margin-right: 80px;
+  margin-top: 20px;
+}
+
+.pie, .graph {
+  margin-left: 120px;
+}
+
+.edit {
+  width: 1px;
+  height: 25px;
+}
+
+.box {
+  background-color: white;
+  border: solid 1px #E9E9EE;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.dist-font-size {
+  font-size: 14;
+  font-weight: 700;
+  padding: 30px;
+}
+
+.search-btn {
+  /* position: absolute; */
+    width: 114px;
+    height: 44px;
+    /* left: 1766px;
+    top: 148px; */
+    /* Main Brand Dark #C4532C */
+    background: #C4532C;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    color: white;
+}
+
+.text-box {
+  /* position: absolute; */
+    width: 363px;
+    height: 44px;
+    /* left: 1367px;
+    top: 148px; */
+    /* White #FFFFFF */
+    background: #FFFFFF;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+}
+
+.logout {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.third-section {
+  text-align: left;
+}
+
+.third-section-title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.third-section-container {
+  padding-bottom: 40px;
+}
+
+.logo {
+  margin-right: 100px;
+}
+
+.ring {
+  margin-left: 400px;
+}
+
+.search {
+  flex-grow: 7;
+    text-align: right;
+}
+
+.search-group {
+  margin: 40px;
+}
