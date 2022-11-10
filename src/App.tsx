@@ -2,7 +2,7 @@ import {useEffect, useState} from 'react';
 import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
 import './App.css';
 import Profile from './Profile';
-import {PropagateLoader} from "react-spinners";
+import {BounceLoader, PropagateLoader} from "react-spinners";
 
 export interface cardData {
     companyName: string;
@@ -61,7 +61,7 @@ const App = () => {
     if (loading) {
         return (
             <div className='loader'>
-                <PropagateLoader loading={true} size={20} color={'#c4532c'}></PropagateLoader>
+                <PropagateLoader loading={true} size={25} color={'#c4532c'}></PropagateLoader>
             </div>
         );
     } else {
