@@ -2,7 +2,7 @@ html {
   background: linear-gradient(199.11deg, rgba(194, 201, 206, 0.08) -37.33%, rgba(225, 228, 231, 0.42) -20.55%, rgba(237, 238, 240, 0.22) -5.47%, rgba(255, 255, 255, 0.97) 43.68%, rgba(226, 229, 231, 0.03) 94.47%, rgba(249, 249, 249, 0.99) 114.68%, #FBFBFB 132.72%, rgba(237, 236, 237, 0.07) 166.36%);
 }
 
-.flex-row {
+.flex-row-space {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
