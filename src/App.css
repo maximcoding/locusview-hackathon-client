@@ -6,6 +6,14 @@ p {
     margin: 0;
 }
 
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
 .clip-contents {
     overflow: hidden;
 }

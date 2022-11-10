@@ -1,6 +1,7 @@
 import { Route, BrowserRouter as Router, Routes, Link } from 'react-router-dom';
 import App from './App';
 import Profile from './Profile';
+import {PropagateLoader} from "react-spinners";
 
 const Home = () => {
   return (
