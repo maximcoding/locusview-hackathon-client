@@ -61,7 +61,7 @@ const App = () => {
     if (loading) {
         return (
             <div className='loader'>
-                <PropagateLoader loading={true} size={25} color={'#c4532c'}></PropagateLoader>
+                <PropagateLoader loading={true} size={25} color={'#ff8200'}></PropagateLoader>
             </div>
         );
     } else {
