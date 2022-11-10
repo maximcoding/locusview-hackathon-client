@@ -55,7 +55,7 @@ const App = () => {
                 setCards(currentCards);
             };
             loadData();
-        }, 3000);
+        }, 1500);
     }, []);
 
     if (loading) {
