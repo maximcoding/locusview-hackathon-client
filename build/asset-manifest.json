@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4316ed3b.css",
+    "main.js": "/static/js/main.c01837dd.js",
+    "static/js/787.f35022d9.chunk.js": "/static/js/787.f35022d9.chunk.js",
+    "static/media/num74.png": "/static/media/num74.af9f0b52024772afc40f.png",
+    "static/media/num75.png": "/static/media/num75.98ea35010bf1e60b9ca6.png",
+    "static/media/num76.png": "/static/media/num76.28e41dab4219117bfecd.png",
+    "static/media/Atmos.png": "/static/media/Atmos.61f5e12e408184961960.png",
+    "static/media/banner.png": "/static/media/banner.d928ae61cd139ddc1ea9.png",
+    "static/media/OneGas.png": "/static/media/OneGas.4780eb8d2708ecaa0a2c.png",
+    "static/media/Duke.png": "/static/media/Duke.67617fd8f89d8cb377e8.png",
+    "static/media/backgroundelements.svg": "/static/media/backgroundelements.28cd18ef1df8a46b2218.svg",
+    "static/media/backgroundElements1.svg": "/static/media/backgroundElements1.c302c0200b824d0b7607.svg",
+    "index.html": "/index.html",
+    "main.4316ed3b.css.map": "/static/css/main.4316ed3b.css.map",
+    "main.c01837dd.js.map": "/static/js/main.c01837dd.js.map",
+    "787.f35022d9.chunk.js.map": "/static/js/787.f35022d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4316ed3b.css",
+    "static/js/main.c01837dd.js"
+  ]
+}
