@@ -11,12 +11,6 @@ const Home = () => {
           <Route path="/profile" element={<Profile />} />
           <Route path="/" element={<App />} />
         </Routes>
-        <div>
-          <h1>My App</h1>
-          <nav>
-            <Link to="/">Home</Link> | <Link to="profile">About</Link>
-          </nav>
-        </div>
       </Router>
     </div>
   );
